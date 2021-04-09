@@ -7,6 +7,11 @@ h1 {
   font-size: 72px;
   color: #0ccac4;
 }
+h2 {
+  font-family: Bigelow-rules;
+  font-size: 24px;
+  color: #0ccac4;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
